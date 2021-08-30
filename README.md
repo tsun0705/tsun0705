@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Haneul Kwon👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsun0705&repo=TIL&theme=dark&hide_border=true)](https://github.com/tsun0705/ViewCloset_deeplearning)
 
