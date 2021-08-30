@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsun0705&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/tsun0705/ViewCloset_deeplearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tsun0705&repo=tsun0705&theme=dark&hide_border=true)](https://github.com/tsun0705/ViewCloset_deeplearning)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsun0705&hide=prs&count_private=true&include_all_commits=true&theme=dracula&hide_border=false)](https://github.com/tsun0705)
 
